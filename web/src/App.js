@@ -3,7 +3,6 @@ import api from './services/api'
 
 import './global.css';
 import './App.css';
-import './Sidebar.css';
 import './Main.css';
 
 import DevItem from './components/DevItem/index';
